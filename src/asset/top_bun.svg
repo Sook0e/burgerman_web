@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_레이어_2" data-name="레이어 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 279.95 120.1">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #faddbe;
+      }
+
+      .cls-2 {
+        fill: #e58c46;
+        stroke: #231815;
+        stroke-miterlimit: 10;
+        stroke-width: 7px;
+      }
+
+      .cls-3 {
+        fill: #ca712b;
+      }
+    </style>
+  </defs>
+  <g id="anatimy">
+    <g id="_버거레이어" data-name="버거레이어">
+      <g id="_윗빵" data-name="윗빵">
+        <g>
+          <path class="cls-2" d="M276.45,83.07c0,43.94-64.8,32.08-140.17,32.08S3.5,127.01,3.5,83.07,64.6,3.5,139.97,3.5s136.47,35.62,136.47,79.57Z"/>
+          <path class="cls-3" d="M137.71,105.58c-80.22,0-117.71,3.96-129.83-13.32,9.1,31,61.25,21.24,127.79,21.24,73.34,0,137.44,12.3,137.44-31.64,0-.05-.29-1.59-.3-1.64-1.81,33.56-30.12,25.36-135.1,25.36Z"/>
+        </g>
+        <g>
+          <ellipse class="cls-1" cx="204.92" cy="36.07" rx="3.06" ry="5.23" transform="translate(12.55 115.37) rotate(-32.39)"/>
+          <ellipse class="cls-1" cx="107.99" cy="51.39" rx="3.06" ry="5.23" transform="translate(-10.73 65.84) rotate(-32.39)"/>
+          <ellipse class="cls-1" cx="169.62" cy="51.39" rx="3.06" ry="5.23" transform="translate(40.3 172.59) rotate(-60)"/>
+          <ellipse class="cls-1" cx="233.22" cy="56.11" rx="5.23" ry="3.06" transform="translate(136.35 275.55) rotate(-79.71)"/>
+          <ellipse class="cls-1" cx="146.32" cy="22.29" rx="5.23" ry="3.06" transform="translate(98.25 162.28) rotate(-79.71)"/>
+          <ellipse class="cls-1" cx="68.75" cy="62.35" rx="5.23" ry="3.06" transform="translate(-20.37 88.29) rotate(-58.44)"/>
+          <ellipse class="cls-1" cx="48.96" cy="48.45" rx="5.23" ry="3.06" transform="translate(-18.83 60.66) rotate(-54.91)"/>
+          <ellipse class="cls-1" cx="87.74" cy="31.44" rx="5.23" ry="3.06" transform="translate(11.58 85.16) rotate(-54.91)"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

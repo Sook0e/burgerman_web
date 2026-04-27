@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_레이어_2" data-name="레이어 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 321.49 252.33">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+        stroke: #231815;
+        stroke-miterlimit: 10;
+        stroke-width: 5px;
+      }
+    </style>
+  </defs>
+  <g id="burger_4" data-name="burger*4">
+    <path class="cls-1" d="M160.74,2.5C73.35,2.5,2.5,50.54,2.5,109.8c0,34.39,23.86,65,60.97,84.64l-.12.55-10.61,49.81,34.11-33.14,5.29-5.14c20.75,6.78,44.02,10.58,68.6,10.58,87.4,0,158.24-48.04,158.24-107.3S248.14,2.5,160.74,2.5Z"/>
+  </g>
+</svg>

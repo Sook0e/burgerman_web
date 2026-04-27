@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_레이어_2" data-name="레이어 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 254.3 69.75">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #e03836;
+        stroke: #231815;
+        stroke-miterlimit: 10;
+        stroke-width: 7px;
+      }
+    </style>
+  </defs>
+  <g id="anatimy">
+    <g id="_버거레이어" data-name="버거레이어">
+      <g>
+        <ellipse class="cls-1" cx="63.94" cy="32.57" rx="60.44" ry="29.07"/>
+        <ellipse class="cls-1" cx="190.36" cy="37.17" rx="60.44" ry="29.07"/>
+      </g>
+    </g>
+  </g>
+</svg>

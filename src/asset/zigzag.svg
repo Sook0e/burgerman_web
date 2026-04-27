@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_레이어_2" data-name="레이어 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 871.78 93.8">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #fff;
+        stroke-miterlimit: 10;
+        stroke-width: 40px;
+      }
+    </style>
+  </defs>
+  <g id="waring">
+    <polyline class="cls-1" points="13.38 26.9 57.84 66.9 102.31 26.9 146.78 66.9 191.26 26.9 235.73 66.9 280.21 26.9 324.68 66.9 369.15 26.9 413.63 66.9 458.1 26.9 502.58 66.9 547.06 26.9 591.53 66.9 636 26.9 680.48 66.9 724.96 26.9 769.44 66.9 813.92 26.9 858.41 66.9"/>
+  </g>
+</svg>

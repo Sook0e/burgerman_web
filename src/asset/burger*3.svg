@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_레이어_2" data-name="레이어 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 664.52 642.86">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff100;
+      }
+
+      .cls-1, .cls-2 {
+        font-family: BMKIRANGHAERANG-OTF-KSCpc-EUC-H, 'BM Kirang Haerang';
+        font-size: 200px;
+        letter-spacing: .02em;
+        stroke: #231815;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-2 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <g id="burger_4" data-name="burger*4">
+    <g id="_버거버거버거" data-name="버거버거버거">
+      <text class="cls-2" transform="translate(13.27 284.16)"><tspan x="0" y="0">BURGER</tspan></text>
+      <text class="cls-2" transform="translate(4.54 391.33) rotate(3.83)"><tspan x="0" y="0">BURGER</tspan></text>
+      <text class="cls-2" transform="translate(13.22 160.5)"><tspan x="0" y="0">BURGER</tspan></text>
+      <text class="cls-2" transform="translate(19.27 581.01) rotate(-6.05)"><tspan x="0" y="0">BURGER</tspan></text>
+    </g>
+    <g id="_버거버거버거-2" data-name="버거버거버거">
+      <text class="cls-1" transform="translate(21.39 285.8)"><tspan x="0" y="0">BURGER</tspan></text>
+      <text class="cls-1" transform="translate(12.66 392.96) rotate(3.83)"><tspan x="0" y="0">BURGER</tspan></text>
+      <text class="cls-1" transform="translate(21.35 162.14)"><tspan x="0" y="0">BURGER</tspan></text>
+      <text class="cls-1" transform="translate(27.39 582.64) rotate(-6.05)"><tspan x="0" y="0">BURGER</tspan></text>
+    </g>
+  </g>
+</svg>

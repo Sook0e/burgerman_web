@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_레이어_2" data-name="레이어 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 277.56 73.93">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #e58c46;
+        stroke: #231815;
+        stroke-miterlimit: 10;
+        stroke-width: 7px;
+      }
+
+      .cls-2 {
+        fill: #ca712b;
+      }
+    </style>
+  </defs>
+  <g id="anatimy">
+    <g id="_버거레이어" data-name="버거레이어">
+      <g id="_아래뺭" data-name="아래뺭">
+        <rect class="cls-1" x="3.5" y="3.5" width="270.56" height="66.93" rx="33.47" ry="33.47"/>
+        <path class="cls-2" d="M246.48,59.21H26.31c-4.14,0-8.1-.62-11.73-1.74,5.72,6.48,13.77,10.73,24.66,10.73h200.06c13.86,0,25.23-6.79,29.57-16.39-5.77,4.62-13.44,7.4-22.4,7.4Z"/>
+      </g>
+    </g>
+  </g>
+</svg>
