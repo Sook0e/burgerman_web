@@ -1,22 +1,17 @@
-import logo from './logo.svg';
+import burgerman from './burgerman.svg';
 import './App.css';
 
 function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
+        <h1 style={{ fontSize: '50px'}}>🍔</h1>
+        <h2> Hi, burgerman!</h2>
+        <img src={burgerman} className="App-logo" alt="burgerman" />
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+          this is burgerman WoRLd !
         </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
+        <button style={{padding: '10px 20px', fontSize: '20px',cursor: 'pointer'}}>주문하기</button>
       </header>
     </div>
   );
